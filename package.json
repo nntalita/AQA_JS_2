@@ -1,0 +1,24 @@
+{
+  "name": "hw-js-package-7-2",
+  "version": "1.0.0",
+  "description": "homework projekt on node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nntalita/AQA_JS_2.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs"
+  ],
+  "author": "NPletneva",
+  "license": "ISC",
+  "private": "true",
+  "bugs": {
+    "url": "https://github.com/nntalita/AQA_JS_2/issues"
+  },
+  "homepage": "https://github.com/nntalita/AQA_JS_2#readme"
+}
